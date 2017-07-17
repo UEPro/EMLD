@@ -13,6 +13,8 @@ Dieses Archiv ist noch ziemlich leer, ich werde es aber diese Woche füllen. Wen
 
 Solltet ihr irgendwelche Fragen oder Probleme haben, schreibt mir einfach über github oder schickt mir eine E-Mail (die Adresse steht in der Anleitung oben im Ordner "Documentation").
 
+Ich werde außerdem eine Facebookseite einrichten, damit ihr mich einfacher kontaktieren könnt. Der Link dazu kommt dann hier her.
+
 Schreibt mir gerne auch für weiteres Feedback und Vorschläge.
 
 Nochmals Danke für die tolle Zeit mit euch und das nette Feedback :) Ich hoffe man sieht sich wieder.
